@@ -1,0 +1,38 @@
+
+#fotoLogo{
+    max-width:150px;
+    max-height:80px;
+    width: auto;
+    height: auto;
+}
+
+.body{
+    background-color: blanchedalmond;
+}
+.navBarTop{
+    
+background-color: blue;
+}
+.bodyTodo{
+    background-color: blanchedalmond;
+}
+#btnHome{
+    margin-left: 15px;
+}
+.carousel-inner{
+    height: 70%;
+}
+.carousel-inner > .carousel-item > img {
+    width: 700px;
+    height: 400px; 
+  }
+.txtDestaque{
+    padding: 25px;
+}
+.cards{
+    padding: 25px;
+    display: inline;
+}
+.card{
+    display: inline;
+}
