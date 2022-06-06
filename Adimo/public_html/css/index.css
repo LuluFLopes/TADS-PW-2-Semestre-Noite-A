@@ -10,7 +10,7 @@
     background-color: blanchedalmond;
 }
 .navBarTop{
-    
+
 background-color: blue;
 }
 .bodyTodo{
@@ -29,10 +29,6 @@ background-color: blue;
 .txtDestaque{
     padding: 25px;
 }
-.cards{
-    padding: 25px;
-    display: inline;
-}
-.card{
-    display: inline;
+.card-deck{
+    padding: 50px;
 }
