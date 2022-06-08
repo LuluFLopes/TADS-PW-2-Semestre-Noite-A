@@ -1,0 +1,30 @@
+body{
+    background-image: url(../img/casa1-foto-grande.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navBarTop{
+
+    background-color: blue;
+}
+
+.bodyTodo{
+    width: 100%;
+    max-height: 80vh;
+    display: grid;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 130px;
+    font-weight: bold;
+    
+}
+
+
+
+#fotoLogo{
+    max-width:150px;
+    max-height:80px;
+    width: auto;
+    height: auto;
+}
