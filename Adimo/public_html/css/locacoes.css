@@ -1,10 +1,20 @@
 @import url(https://fonts.googleapis.com/css?family=Quicksand:400,300);
 
-.body{
-    
-    background-color: blanchedalmond;
+#fotoLogo{
+    max-width:150px;
+    max-height:80px;
+    width: auto;
+    height: auto;
 }
 
+.navBarTop{
+
+background-color: blue;
+}
+
+#btnHome{
+    margin-left: 15px;
+}
 
 body{
     font-family: 'Quicksand', sans-serif;
